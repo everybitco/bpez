@@ -1,0 +1,2 @@
+# curly
+A compression algorithm
